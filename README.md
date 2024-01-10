@@ -3,10 +3,11 @@
  Recommends suitable songs based on the detected emotions for a personalized experience.
  
  This is Chatbot-Song-Recommender-System developed by-
-1. **Yogesh Gehlot** (https://github.com/yogsgehlot) 
-2. **Ayush Suryawanshi** (https://github.com/AyushSuryawanshi004) 
-3. **Amarpreet Singh** (https://github.com/Amarpreet-singh07)  
-4. **Snehdeep Mehta** (https://github.com/Snehdeep31)
+1. **Amarpreet Singh** (https://github.com/Amarpreet-singh07)  
+2. **Yogesh Gehlot** (https://github.com/yogsgehlot) 
+ 
+
+ 
 
 -----------------------------------------------------------------
 
