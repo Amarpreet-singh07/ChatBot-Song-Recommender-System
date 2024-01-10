@@ -1,7 +1,8 @@
  **ChatBot-Song-Recommender-System**
-Made a Predictive Model with the use of Machine Learning algorithms and Long Short Term Memory (LSTM) that can be used by the individuals to predict the stock price of a company based on its past performance.
-
-This is Chatbot-Song-Recommender-System developed by-
+ Built a chatbot in Python that understands user emotions from their messages.
+ Recommends suitable songs based on the detected emotions for a personalized experience.
+ 
+ This is Chatbot-Song-Recommender-System developed by-
 1. **Yogesh Gehlot** (https://github.com/yogsgehlot) 
 2. **Ayush Suryawanshi** (https://github.com/AyushSuryawanshi004) 
 3. **Amarpreet Singh** (https://github.com/Amarpreet-singh07)  
